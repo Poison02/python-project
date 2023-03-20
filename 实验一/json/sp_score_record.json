@@ -1,0 +1,47 @@
+[
+  {
+    "sr_gradeid": "G10001",
+    "sr_stuid": 1,
+    "sr_courseid": "C10001",
+    "sr_examtime": "2014",
+    "sr_examtype": "线上",
+    "sr_xueqi": 1,
+    "sr_score": 99
+  },
+  {
+    "sr_gradeid": "G10002",
+    "sr_stuid": 2,
+    "sr_courseid": "C10002",
+    "sr_examtime": "2014",
+    "sr_examtype": "线上",
+    "sr_xueqi": 1,
+    "sr_score": 88
+  },
+  {
+    "sr_gradeid": "G10003",
+    "sr_stuid": 3,
+    "sr_courseid": "C10003",
+    "sr_examtime": "2014",
+    "sr_examtype": "线上",
+    "sr_xueqi": 1,
+    "sr_score": 92
+  },
+  {
+    "sr_gradeid": "G10004",
+    "sr_stuid": 4,
+    "sr_courseid": "C10004",
+    "sr_examtime": "2014",
+    "sr_examtype": "线上",
+    "sr_xueqi": 1,
+    "sr_score": 100
+  },
+  {
+    "sr_gradeid": "G10005",
+    "sr_stuid": 5,
+    "sr_courseid": "C10005",
+    "sr_examtime": "2014",
+    "sr_examtype": "线上",
+    "sr_xueqi": 1,
+    "sr_score": 98
+  }
+]

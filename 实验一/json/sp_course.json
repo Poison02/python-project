@@ -1,0 +1,52 @@
+[
+  {
+    "c_id": "C10001",
+    "c_name": "语文",
+    "delflag": 0
+  },
+  {
+    "c_id": "C10002",
+    "c_name": "数学",
+    "delflag": 0
+  },
+  {
+    "c_id": "C10003",
+    "c_name": "英语",
+    "delflag": 0
+  },
+  {
+    "c_id": "C10004",
+    "c_name": "物理",
+    "delflag": 0
+  },
+  {
+    "c_id": "C10005",
+    "c_name": "化学",
+    "delflag": 0
+  },
+  {
+    "c_id": "C10006",
+    "c_name": "生物",
+    "delflag": 0
+  },
+  {
+    "c_id": "C10007",
+    "c_name": "地理",
+    "delflag": 0
+  },
+  {
+    "c_id": "C10008",
+    "c_name": "政治",
+    "delflag": 0
+  },
+  {
+    "c_id": "C10009",
+    "c_name": "历史",
+    "delflag": 0
+  },
+  {
+    "c_id": "C10010",
+    "c_name": "音乐",
+    "delflag": 0
+  }
+]

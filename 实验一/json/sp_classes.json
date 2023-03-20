@@ -1,0 +1,37 @@
+[
+  {
+    "cs_id": "G10001",
+    "cs_date": 2014,
+    "cs_class": 1,
+    "cs_adviser": "T10001",
+    "delflag": 0
+  },
+  {
+    "cs_id": "G10002",
+    "cs_date": 2013,
+    "cs_class": 1,
+    "cs_adviser": "T10001",
+    "delflag": 0
+  },
+  {
+    "cs_id": "G10003",
+    "cs_date": 2012,
+    "cs_class": 1,
+    "cs_adviser": "T10001",
+    "delflag": 0
+  },
+  {
+    "cs_id": "G10004",
+    "cs_date": 2011,
+    "cs_class": 1,
+    "cs_adviser": "T10001",
+    "delflag": 0
+  },
+  {
+    "cs_id": "G10005",
+    "cs_date": 2014,
+    "cs_class": 2,
+    "cs_adviser": "T10001",
+    "delflag": 0
+  }
+]
