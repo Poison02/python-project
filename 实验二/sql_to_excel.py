@@ -17,18 +17,18 @@ sp_score_record = "select * from sp_score_record;"
 
 # 将表写入excel
 sp_student_data = pd.read_sql(sp_student, engine)
-sp_student_data.to_excel("./sq_student.xlsx", index=None)
+sp_student_data.to_excel("./xlsx/sq_student.xlsx", index=None)
 # 将表写入excel
 sp_teacher_data = pd.read_sql(sp_teacher, engine)
-sp_teacher_data.to_excel("./sp_teacher.xlsx", index=None)
+sp_teacher_data.to_excel("./xlsx/sp_teacher.xlsx", index=None)
 # 将表写入excel
 sp_classes_data = pd.read_sql(sp_classes, engine)
-sp_classes_data.to_excel("./sp_classes.xlsx", index=None)
+sp_classes_data.to_excel("./xlsx/sp_classes.xlsx", index=None)
 # 将表写入excel
 sp_course_data = pd.read_sql(sp_course, engine)
-sp_course_data.to_excel("./sp_course.xlsx", index=None)
+sp_course_data.to_excel("./xlsx/sp_course.xlsx", index=None)
 # 将表写入excel
 sp_score_record_data = pd.read_sql(sp_score_record, engine)
-sp_score_record_data.to_excel("./sp_score_record.xlsx", index=None)
+sp_score_record_data.to_excel("./xlsx/sp_score_record.xlsx", index=None)
 
 print("success")

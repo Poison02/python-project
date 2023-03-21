@@ -197,7 +197,7 @@ sp_score_record_data = [
 # print("OKOKOK")
 
 # 读取excel文件插入MySQL中
-df = pd.read_excel("sp_score_record.xlsx")
+df = pd.read_excel(r"xlsx\sp_score_record.xlsx")
 lst = []
 for i in range(0, len(df)):
     record = tuple(df.loc[i])
