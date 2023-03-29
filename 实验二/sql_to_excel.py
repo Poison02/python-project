@@ -17,7 +17,7 @@ sp_score_record = "select * from sp_score_record;"
 
 # 将表写入excel
 sp_student_data = pd.read_sql(sp_student, engine)
-sp_student_data.to_excel("./xlsx/sq_student.xlsx", index=None)
+sp_student_data.to_excel("./xlsx/sp_student.xlsx", index=None)
 # 将表写入excel
 sp_teacher_data = pd.read_sql(sp_teacher, engine)
 sp_teacher_data.to_excel("./xlsx/sp_teacher.xlsx", index=None)
