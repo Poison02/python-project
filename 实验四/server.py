@@ -80,8 +80,11 @@ class ClientThread(threading.Thread):
 
 def main():
     # 创建服务器套接字
+    # AF_INET表示socket网络层使用IP协议，SOCK_STREAM表示socket传输层使用tcp协议
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    # 绑定端口
     server_socket.bind((SERVER_HOST, SERVER_PORT))
+    # 进行监听
     server_socket.listen(5)
     print(f'Server listening on {SERVER_HOST}:{SERVER_PORT}')
     while True:
